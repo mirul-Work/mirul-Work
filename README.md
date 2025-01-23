@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mirul-Work
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Amirul Hamiezan
+- 👀 I’m interested in Coding especialy Web Development
+- 💞️ I’m looking for Job
+- 🌱 Contact : +601137527311
+- 📫 E-mail : amirulhamizanmokhtar@gmail.com
+- ⚡ I'm looking for Job
 
 <!---
 mirul-Work/mirul-Work is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
